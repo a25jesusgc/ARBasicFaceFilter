@@ -1,29 +1,6 @@
-# Descrición
+# Descrición Exercicio Basic Face Filter
+
+Creei un prefab semellante ao *AR Default Face* chamado *AR Custom Face*. No lugar do sombreiro, púxenlle un modelo 3D dunhas gafas. Cambieille a cor á textura da cara e creei dous sistemas de partículas de brillos nas esquinas das lentes.
+Na escena, cambieille o prefab por defecto polo novo e cambiei a cor no *Volume* do Postprocesado.
 
 Emprega este arquivo para describir os cambios do teu proxecto.
-
-Utiliza o formato en markdown coas marcas básicas que aparecen no seguinte exemplo:
-
-# Título principal
-## Subtítulo
-
-Texto normal con **negriña** e *cursiva*.
-
-- Lista 1
-- Lista 2
-
-[Ligazón](https://exemplo.com)
-
-
-```csharp
-using UnityEngine;
-
-public class OlaMundo : MonoBehaviour
-{
-    void Start()
-    {
-        Debug.Log("Ola, mundo desde C#!");
-    }
-}
-
-```
